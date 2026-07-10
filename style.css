@@ -1,5 +1,7 @@
 *{
-    margin: 0px;
+    margin: 0;
+    padding: 0;
+    font-family: "Inter Tight", sans-serif;
 }
 .comon-btn{
     background-color: blue;
@@ -79,3 +81,103 @@ header div article p{
    /* header style end */
    /* header style end */
 
+ /* Meet the Speakers style start */
+ /* Meet the Speakers style start */
+
+ .Headline{
+   text-align: center;
+   margin-top: 120px;
+   margin-bottom: 40px;
+   font-size: 40px;
+ }
+
+
+
+ .parent-all-cards{
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+   
+    
+ }
+ .spikear-card{
+    border: 1px solid silver;
+    border-radius: 12px;
+    overflow: hidden;
+ }
+ .spikear-card img{
+    width: 100%;
+    display: block;
+ }
+ .Text-below-the-image{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 15px 25px;
+ }
+
+ .Blue-text-in-the-image{
+    color: blue;
+ }
+ .Blue-text-in-the-image-silver{
+    color: #575757;
+ }
+
+
+
+ /* Meet the Speakers style end */
+ /* Meet the Speakers style end */
+
+   .Headline{
+   text-align: center;
+   margin-top: 120px;
+   margin-bottom: 40px;
+   font-size: 40px;
+ }
+
+
+
+ .parent-all-cards{
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+   
+    
+ }
+ .spikear-card{
+    border: 1px solid silver;
+    border-radius: 12px;
+    overflow: hidden;
+ }
+ .spikear-card img{
+    width: 100%;
+    display: block;
+ }
+ .Text-below-the-image{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 15px 25px;
+ }
+
+ .Blue-text-in-the-image{
+    color: blue;
+ }
+ .Blue-text-in-the-image-silver{
+    color: #575757;
+ }
+
+
+
+ /* Meet the Speakers style end */
+ /* Meet the Speakers style end */
+
+    
