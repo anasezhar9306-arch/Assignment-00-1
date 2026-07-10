@@ -4,6 +4,7 @@
 .comon-btn{
     background-color: blue;
     color: white;
+    border: none;
     border-radius: 9px;
     padding: 9px 18px;
     font-weight: bold;
@@ -29,5 +30,52 @@ nav{
 
 /* navbaer end here */
 /* navbaer end here */
-/* navbaer end here */
+
+   /* header style start */
+   /* header style start */
+header{
+    background-image: url(./assets/banner.jpg);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+header div article{
+    padding-top: 90px;
+    font-size: 20px;
+    display: block;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+header div article h1{
+    font-size: 50px;
+    font-family: "Inter Tight", sans-serif;
+}
+
+
+header div article p{
+    padding: 0px 500px;
+    font-size: 16px;
+}
+
+
+.hero-s-Register-Now{
+     margin-bottom: 290px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 14px 37px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    margin-top: 290px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+   /* header style end */
+   /* header style end */
 
