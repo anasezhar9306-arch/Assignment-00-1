@@ -1,6 +1,5 @@
 *{
     margin: 0;
-    padding: 0;
     font-family: "Inter Tight", sans-serif;
 }
 .comon-btn{
@@ -174,10 +173,107 @@ header div article p{
  .Blue-text-in-the-image-silver{
     color: #575757;
  }
-
-
-
  /* Meet the Speakers style end */
  /* Meet the Speakers style end */
+
+    /* Secure Your Spot start */
+    /* Secure Your Spot start */
+    .Head-of-department{
+        max-width: 1200px;
+        margin: auto;
+    }
+    .Secure-Your-Spott{
+        font-size: 40px;
+    }
+    .Early-bird-pricing-en-s-August{
+        color: #575757;
+    }
+    .Secure-Your-Spot{
+        text-align: center;
+        margin-top: 100px;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .All-box-together{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 25px;
+
+    }
+    .box-box-box{
+        border: 1px solid silver;
+        border-radius: 13px;
+        overflow: hidden;
+        padding: 20px 15px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .box-box-box button{
+    margin-top: auto;
+    }
+    .un-order-list{
+        display: flex;
+        flex-direction: column;
+        gap: 17px;
+        margin-top: 30px;
+        padding-left: 20px;
+        color: #575757;
+    }
+    .proo-box{
+       margin-top: 40px;
+       margin-bottom: 40px;
+       border:1px solid black ;
+       border-radius: 13px;
+       overflow: hidden;
+       background-color: black;
+       color: white;
+       padding: 20px 15px;
+    }
+    .Private-box{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .Black-background-bottom{
+        width: 100%;
+        background-color: #2563EB;
+        color: white;
+        border: none;
+        padding: 7px 0px;
+        border-radius: 5px;
+        margin-top: 25px;
+        margin-bottom: 10px;
+    }
+    .Other-Bottoms{
+        width: 100%;
+        background-color: white; 
+        color: #2563EB;
+        border:1px solid #2563EB;
+        padding: 7px 0px;
+        border-radius: 5px;
+    }
+    .Last-button{
+        width: 100%;
+        background-color: white;
+        color: #575757;
+        border:1px solid #575757;
+        padding: 7px 0px;
+        border-radius: 5px;
+
+    }
+    .standard-pro-team{
+        color: #575757;
+    }
+
+
+
+
+    /* Secure Your Spot end*/
+    /* Secure Your Spot end*/
 
     
